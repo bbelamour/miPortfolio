@@ -11,6 +11,11 @@ div.row {
     ul.items {
       margin: 10px;
     }
+    svg {
+      float: right;
+      margin-top: -40px;
+      
+  }
 
 
   body {
