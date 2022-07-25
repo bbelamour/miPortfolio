@@ -16,25 +16,19 @@
   color: white; 
 
 }
-.banner { 
 
-  opacity:0.9;
-  position: relative;
-  z-index: 1;
-  
 
-}
  .img-fluid{
   max-width: 100%;
-  min-width: 30%;
+  min-width: 40%;
   position: relative; 
   z-index: 2;
   margin-top: -15%;
   margin-left: 20px;
-  border-radius: 150px;
+  border-radius: 50%;
   border: black solid 1px;
-  height: 20vh;
-  width: 20vh;
+  height: 30vh;
+  width: 30vh;
   
 }
 .card-header {
